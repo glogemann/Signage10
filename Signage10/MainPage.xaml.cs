@@ -25,6 +25,8 @@ namespace Signage10
         public MainPage()
         {
             this.InitializeComponent();
+            // test
+
         }
     }
 }
